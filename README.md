@@ -10,7 +10,7 @@ EL(${}),jstl의 지속적으로 사용을 통해 사용법을 익힘 <br/>
 
 ### 사용 언어 및 기술
 ***
-1. 언어 / 프레임워크 : Java 11
+1. 언어 / 프레임워크 : Java 11, JSP, Servlet, JS, CSS
 2. DB : mairadb
 3. 개발툴 : 이클립스 jee
 4. DB관리툴 : heidisql
