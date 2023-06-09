@@ -15,24 +15,24 @@
 
 ### 다이어그램
 1. 유스케이스 다이어그렘
-![CreatePlan](./image/list.png)
+![CreatePlan](./image/usecase.png)
 2. ER 다이어그렘
-![CreatePlan](./image/list.png)
+![CreatePlan](./image/erd.png)
 3. 시퀀스 다이어그렘
-![CreatePlan](./image/list.png)
+![CreatePlan](./image/seq.png)
 4. 클래스 다이어그렘
-![CreatePlan](./image/list.png)
+![CreatePlan](./image/class.png)
 
 
 ### 핵심 소스코드
 1. list 불러오기
-![CreatePlan](./image/list.png)
+![CreatePlan](./image/list.PNG)
 2. 저장
-![CreatePlan](./image/save.png)
+![CreatePlan](./image/save.PNG)
 3. 읽기 
-![CreatePlan](./image/read.png)
+![CreatePlan](./image/read.PNG)
 4. 삭제
-![CreatePlan](./image/delete.png)
+![CreatePlan](./image/delete.PNG)
 
 ### 구현된 기능
 *** 
