@@ -17,11 +17,11 @@
 1. 유스케이스 다이어그렘
 ![CreatePlan](./image/usecase.png)
 2. ER 다이어그렘
-![CreatePlan](./image/erd.png)
+![CreatePlan](./image/erd.PNG)
 3. 시퀀스 다이어그렘
 ![CreatePlan](./image/seq.png)
 4. 클래스 다이어그렘
-![CreatePlan](./image/class.png)
+![CreatePlan](./image/class.PNG)
 
 
 ### 핵심 소스코드
