@@ -21,8 +21,12 @@
 
 ![CreatePlan](./image/erd.PNG)
 3. 시퀀스 다이어그렘
+
+
 ![CreatePlan](./image/seq.png)
 4. 클래스 다이어그렘
+
+
 ![CreatePlan](./image/class.PNG)
 
 
