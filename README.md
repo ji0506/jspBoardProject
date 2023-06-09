@@ -43,3 +43,13 @@
 ***
 1. order by 가 목록이 늘어날수록 이상해질수 있음
 2. 조회수 확인
+
+
+### mariadb 계층형 관련 order by 내용 및 피드백 내용
+###
+1. order by가 목록이 늘어나면 늘어날수록 정렬이 제대로 안될 가능성이 농후하여 연구
+참고 사이트
+https://stackoverflow.com/questions/17737283/how-to-make-order-siblings-by
+2. 하지만 작성 실패
+3. topId가 생각하는 값으로 입력되지 않음
+4. 추후 계층형, 재귀 관련하여 이해도가 증가하면 시도
