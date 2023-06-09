@@ -30,7 +30,7 @@ EL(${}),jstl의 지속적으로 사용을 통해 사용법을 익힘 <br/>
 
 ### 핵심 소스코드
 1. list 불러오기<br/>
-![CreatePlan](./image/list.PNG)
+(./image/list.PNG)
 2. 저장<br/>
 ![CreatePlan](./image/save.PNG)
 3. 읽기 <br/>
