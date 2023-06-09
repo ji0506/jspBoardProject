@@ -10,34 +10,27 @@
 3. 개발툴 : 이클립스 jee
 4. DB관리툴 : heidisql
 
-### 요구사항 명세
+### 요구사항 명세<br/>
 ![CreatePlan](./image/Require.png)
 
-### 다이어그램
-1. 유스케이스 다이어그렘
+### 다이어그램<br/>
+1. 유스케이스 다이어그렘<br/>
 ![CreatePlan](./image/usecase.png)
-2. ER 다이어그렘
-
-
+2. ER 다이어그렘<br/>
 ![CreatePlan](./image/erd.PNG)
-3. 시퀀스 다이어그렘
-
-
+3. 시퀀스 다이어그렘<br/>
 ![CreatePlan](./image/seq.png)
-4. 클래스 다이어그렘
-
-
+4. 클래스 다이어그렘<br/>
 ![CreatePlan](./image/class.PNG)
 
-
 ### 핵심 소스코드
-1. list 불러오기
+1. list 불러오기<br/>
 ![CreatePlan](./image/list.PNG)
-2. 저장
+2. 저장<br/>
 ![CreatePlan](./image/save.PNG)
-3. 읽기 
+3. 읽기 <br/>
 ![CreatePlan](./image/read.PNG)
-4. 삭제
+4. 삭제 <br/>
 ![CreatePlan](./image/delete.PNG)
 
 ### 구현된 기능
